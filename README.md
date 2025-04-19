@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nattanon Hanpa</h1>
-<h3 align="center">A passionate golang developer from Thailand</h3>
+<h3 align="center">Golang Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flook2563&label=Profile%20views&color=0e75b6&style=flat" alt="flook2563" /> </p>
 
